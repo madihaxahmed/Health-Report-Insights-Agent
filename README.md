@@ -141,4 +141,5 @@ hia/
 
 ## 🙋‍♂️ Author
 
-Created by [Harsh Gajjar](https://harshgajjar.vercel.app)
+Created by Madiha Ahmed
+
